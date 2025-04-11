@@ -1,4 +1,3 @@
-test/index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,5 +7,12 @@ test/index.html
 </head>
 <body>
     <h1>Hello, this is a test page!</h1>
+    
+    <h2>Welcome to My Test Page</h2>
+    <p>This is a simple test page to demonstrate how to add content.</p>
+    <p>Feel free to edit this page and add your own content!</p>
+    
+    <h3>Subheading Example</h3>
+    <p>Here’s another section under a subheading. You can add more paragraphs like this.</p>
 </body>
 </html>
